@@ -1,6 +1,6 @@
 # App Tamer Professional License
 
-<img src="https://static.macupdate.com/products/35293/l/app-tamer-logo.png?v=1659770669" width="200" alt="App icon" align="left"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh9dnliGFqcXzkP7IN3_tLcchf0MLwmYGiDw&s" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>App Tamer for macOS</h3>
